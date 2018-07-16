@@ -1,3 +1,1 @@
-print ("This is sample print")
-print ("Ankit Bajaj")
-print(input("some input"))
+print(input("some Your Name"))
